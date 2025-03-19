@@ -3,11 +3,11 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/practicum-com/kittygram-en.git
+git clone https://github.com/Nebius-Academy/kittygram_en.git
 ```
 
 ```
-cd kittygram-en
+cd kittygram_en
 ```
 
 Create and activate a virtual environment:
